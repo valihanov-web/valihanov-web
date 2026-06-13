@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Valihanov-web</h1>
 
-<!--
-**valihanov-web/valihanov-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Developer • Introvert 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi, I'm Hojiakbar Valihanov
+
+* Born in 2007
+* Living in Namangan, Uzbekistan
+* Passionate about Web Development and modern technologies
+* Currently learning HTML, CSS, JavaScript, React, and Backend Development
+* Interested in UI/UX Design and creating responsive websites
+* I enjoy building websites and working on different projects in my spare time
+* Always striving to learn new skills and improve myself every day
+
+
+
+
+---
+
+### 🛠 Tech
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git&theme=dark" />
+</p>
+
+---
+
+### 📊 Stats
+<p align="center">
+  <img height="130" src="https://github-readme-stats.vercel.app/api?username=IdentityNulll&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+
+
